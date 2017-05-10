@@ -1,0 +1,3 @@
+#lang racket
+(define in (open-input-file "vacuum-cleaner.rle"))
+(define out (open-output-file "vacuum-cleaner.txt"))
